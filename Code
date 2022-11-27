@@ -1,0 +1,194 @@
+
+<html>
+<head>
+<title>Maldives</title>
+<style>
+#aa
+{
+width:200px;
+margin:auto;
+border:2px white double;
+border-radius:35%;
+padding:2px;
+text-align:center;
+color: white;
+font-family: cursive;
+text-shadow: 2px 2px 2px rgb(20, 9, 84);
+}
+#cc
+{
+margin:10px auto;
+background-image: url("https://th.bing.com/th/id/OIP.0yoZ6IC9dzmiV5tlHL93oAHaDt?w=344&h=175&c=7&r=0&o=5&dpr=1.1&pid=1.7");
+background-repeat: no-repeat;
+background-size: cover;
+height:80%;
+width: 90%;
+padding:50px;
+}
+#fh
+{
+width:100%;
+margin:10px auto 10px auto;
+background:linear-gradient(aqua,rgb(74, 200, 74));
+text-align:center;
+padding:2px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 20px;
+}
+.flexbox
+{
+    display:flex;
+    margin:30px auto 10px auto;
+    height:60px;
+    width:100%;
+    background-color:darkcyan ;
+    text-align:justify;
+    border-radius: 4px;
+}
+.item
+{
+    background-color: LightCyan;
+    margin:5px;
+    border-radius: 4px;
+    width:100%;
+    padding:15px;
+    text-align:center;
+}
+a:link
+{
+color:MidnightBlue;
+text-decoration: none;
+}
+a:hover
+{
+color:red;
+text-decoration: none;
+}
+#abt
+{
+    margin:10px auto 10px auto;
+    height:30px;
+    width:100%;
+    background-color:darkcyan ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 150%;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+#info
+{ 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+#img
+{
+ display:block;
+ margin-left: auto;
+ margin-right: auto;
+}
+#cnt
+{
+    margin: 20px;
+    height: 40px;
+    width: 200px;
+    background:linear-gradient(aqua,darkcyan);
+    color:black;
+    float:right;
+    text-align: center; 
+    padding: 10px;
+    border-radius: 20px;
+}
+</style>
+</head>
+<body>
+<div id="cc">
+<div id="aa"> 
+<p>MALDIVES TOURISM</p>
+</div>
+</div>
+
+<div id="fh">
+<p><b>Famous Hotels</b></p>
+</div>
+
+<img src="https://th.bing.com/th/id/OIP.Oseiu-mVfXVnNtNJ3jUx-wHaE8?pid=ImgDet&rs=1" height="250px" width="385px">
+<img src="https://image.cnbcfm.com/api/v1/image/106616793-1594805802117gettyimages-900809876.jpg?v=1594864515" height="250px" width="385px">
+<img src="https://cdn.architecturendesign.net/wp-content/uploads/2014/07/8-Ayada-Resort-Maldives.jpeg" height="250px" width="385px">
+
+<div class="flexbox">
+    <div class="item"> <a id="link" href="https://www.agoda.com/en-in/kagi-maldives-spa-island/hotel/maldives-islands-mv.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1758155&numberOfBedrooms=&familyMode=false&adults=1&children=0&rooms=1&maxRooms=0&checkIn=2022-11-29&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=-1&showReviewSubmissionEntry=false&currencyCode=INR&isFreeOccSearch=false&tag=81a6e36f-03f1-f711-3f1a-733cc99844af&isCityHaveAsq=false&tspTypes=16&los=1&searchrequestid=c4333013-d818-4435-81d8-07f7b6bb7251&utm_medium=cpc&utm_source=bing&utm_campaign=Intent%20Engine%20-%20108&utm_content=ci:maldives%20islands_17759|ds:maldives|at:hotel|test&utm_term=maldives%20hotel" >Kagi Maldives Spa Island</a></div>
+    <div class="item"> <a id="link" href="https://www.agoda.com/en-in/arena-beach-hotel-at-maafushi/hotel/maldives-islands-mv.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1758155&numberOfBedrooms=&familyMode=false&adults=1&children=0&rooms=1&maxRooms=0&checkIn=2022-11-29&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=-1&showReviewSubmissionEntry=false&currencyCode=INR&isFreeOccSearch=false&tag=81a6e36f-03f1-f711-3f1a-733cc99844af&isCityHaveAsq=false&tspTypes=2,2,16,16&los=1&searchrequestid=c4333013-d818-4435-81d8-07f7b6bb7251&utm_medium=cpc&utm_source=bing&utm_campaign=Intent%20Engine%20-%20108&utm_content=ci:maldives%20islands_17759|ds:maldives|at:hotel|test&utm_term=maldives%20hotel" >Arena Beach Hotel</a></div>
+    <div class="item"> <a id="link" href="https://www.agoda.com/en-in/salt-beach-hotel-at-maafushi/hotel/maldives-islands-mv.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1758155&numberOfBedrooms=&familyMode=false&adults=1&children=0&rooms=1&maxRooms=0&checkIn=2022-11-29&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=-1&showReviewSubmissionEntry=false&currencyCode=INR&isFreeOccSearch=false&tag=81a6e36f-03f1-f711-3f1a-733cc99844af&isCityHaveAsq=false&los=1&searchrequestid=c4333013-d818-4435-81d8-07f7b6bb7251&utm_medium=cpc&utm_source=bing&utm_campaign=Intent%20Engine%20-%20108&utm_content=ci:maldives%20islands_17759|ds:maldives|at:hotel|test&utm_term=maldives%20hotel" >Salt Beach Hotel</a></div>
+    <div class="item"> <a id="link" href="https://www.agoda.com/en-in/sun-island-resort-spa/hotel/maldives-islands-mv.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1758155&numberOfBedrooms=&familyMode=false&adults=1&children=0&rooms=1&maxRooms=0&checkIn=2022-11-29&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=-1&showReviewSubmissionEntry=false&currencyCode=INR&isFreeOccSearch=false&tag=81a6e36f-03f1-f711-3f1a-733cc99844af&isCityHaveAsq=false&tspTypes=15,5,16&los=1&searchrequestid=c4333013-d818-4435-81d8-07f7b6bb7251&utm_medium=cpc&utm_source=bing&utm_campaign=Intent%20Engine%20-%20108&utm_content=ci:maldives%20islands_17759|ds:maldives|at:hotel|test&utm_term=maldives%20hotel" >Sun Island Resort Spa</a></div>
+    <div class="item"> <a id="link" href="https://www.agoda.com/en-in/paradise-island-resort-spa/hotel/maldives-islands-mv.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1758155&numberOfBedrooms=&familyMode=false&adults=1&children=0&rooms=1&maxRooms=0&checkIn=2022-11-29&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=-1&showReviewSubmissionEntry=false&currencyCode=INR&isFreeOccSearch=false&tag=81a6e36f-03f1-f711-3f1a-733cc99844af&isCityHaveAsq=false&tspTypes=7,16&los=1&searchrequestid=c4333013-d818-4435-81d8-07f7b6bb7251&utm_medium=cpc&utm_source=bing&utm_campaign=Intent%20Engine%20-%20108&utm_content=ci:maldives%20islands_17759|ds:maldives|at:hotel|test&utm_term=maldives%20hotel" >Paradise Island Resort</a></div>
+</div>
+<br>
+<center><img src="https://i.ibb.co/gz2ZWD8/Untitled-design.png"  height="80px" width="100%"></body></center>
+<div id="abt"> 
+    <p>ABOUT MALDIVES :</p>
+</div>
+<p id="info">
+           Specks of emerald green enveloped by dazzling turquoise waters like scattered beads in the ocean; white powdery beaches, tall palms lean on towards the sea, crystalline white sands giving way to crystal clear waters, shades of turquoise blend flawlessly with deeper hues of blue; pristine coral reefs and some of the most incredible underwater life on our planet.
+Rising from the deep blue of the vast expanse of the Indian Ocean are more than a thousand islands and thousands more reefs that form the Maldives.
+<br> 
+<br>        On the European market, Maldives today rank among the most attractive travel destinations in the tropics. Maldives offers large natural resources for tourism and encourages eco-tourism to protect the sensitive environment and underwater life.
+It is not only divers and snorkelers who enjoy the profuse underwater resources, but also beach tourists are attracted by the nature of the beaches and the climatic conditions as well. This environment really guarantees relaxation and recreation.
+</p>
+<img src="https://th.bing.com/th/id/OIP.PE2RvpFkP3S3XWlmATN5pAHaEK?pid=ImgDet&rs=1" height="200px" width="290px">
+<img  src="https://th.bing.com/th/id/OIP.jbQX4S3SJ1kMyraPrlvw_wHaE7?w=251&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7" height="200px" width="290px">
+<img  src="https://th.bing.com/th/id/OIP.aB1SKVzIqwV6YyzE8xi8qAHaEo?w=304&h=190&c=7&r=0&o=5&dpr=1.1&pid=1.7"  height="200px" width="290px">
+<img  src="https://th.bing.com/th/id/OIP.luO03gUEaHwa7jITTYjaKQHaE8?w=301&h=181&c=7&r=0&o=5&dpr=1.1&pid=1.7"  height="200px" width="290px">
+<p id="info">What better place to relax and enjoy yourself than the romantic dunes that adorn these islands. Imagine a place that is nothing but surf and sun; where paradise meets reality. You can choose any of the hundred resorts islands across the Maldives for your honeymoon or holiday stay; allowing yourself the freedom to explore everything is amazing tropical wonderland has to offer. Everything has been designed with the luxury and comfort of travellers in mind, which is why per capita it is the busiest tourist area in the world. Half a million people every year rediscover this paradise.
+    Tourism which was introduced in 1972 has successfully developed in the past years. The tourism in Maldives has been rapidly growing the number of tourist arrivals and resorts islands over the last ten year period.
+    </p>
+<div id="abt"> 
+    <p>MALDIVES CLIMATE :</p>
+</div>
+<p id="info">
+    The Maldives, islands of the Indian Ocean located to the southwest of India, have a tropical climate, hot all year round and influenced by the monsoons. The south-west monsoon, from late April to September, it's stronger on the northern islands, and it's accompanied by the wind, which can make the sea rough and therefore may discourage activities such as diving, and it's also accompanied by higher humidity and more frequent cloudiness. The northeast monsoon, from October to December, it's quieter and simply brings showers and thunderstorms in the afternoon or evening, especially in the southern atolls.
+The driest period, outside the monsoons, runs from January to April and is felt more on the northern atolls.
+</p>
+<p id="info">The temperatures are stable. Relative humidity is high and stable throughout the year as well, around 80%. However, between March and May, there is a slight increase in temperature and in the feeling of sultriness as well, especially in the northern atolls; in fact, in this period, the maximum temperature rises to 32/33 °C (90/91 °F) and the minimum temperature to 26/27 °C (79/81 °F).
+    As is common in tropical areas, the rains mostly occur in the form of short and intense downpour or thunderstorm. Total annual rainfall is a bit more abundant in the southern atolls, where it hovers around 2,200/2,300 millimeters (87/91 inches) per year, and less abundant in the north, where it hovers around 1,700/1,800 mm (67/71 in) per year. The difference is mainly due to the fact that in the central and northern atolls there is a relatively dry season from January to mid-April, which is more pronounced in the northernmost atolls.
+    The sun in the Maldives shines for more than 2,700 hours a year. There is no season when the sun disappears, although there may be days, or periods of a few days, in which the sky is often cloudy, especially in the season of the southwest monsoon (late April-September).</p>
+    <img id="img" src="data:image/jpeg;base64,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" height="200px" width="300px">
+
+
+    <div id="abt"> 
+        <p>MALDIVES CULTURE :</p>
+    </div>
+    <p id="info">
+    A beautiful slice of paradise in the Indian ocean, the Maldives is a fascinating destination. Steeped in rich culture and tradition, the Maldives culture is heavily shaped by Indian, Sri Lankan, Malaysia, Arab, Persian, Indonesian and even African influences. Maldivians are incredibly warm, welcoming and friendly people who will go above and beyond to make your holiday truly unforgettable. Read on to discover some interesting facts about the Maldives culture and useful information for your next Maldives holiday.
+</p>
+<p id="info">
+    <b>Religion :</b>
+    <br>Islam is the major religion in the Maldives. This is most evident through the many beautiful mosques located on the main island of Malé as well as the lack of alcohol and pork available on the mainland. But not to worry, resorts have a special license to serve alcohol, so you can still enjoy cocktails and beachside beverages in tropical paradise.
+</p>
+<img id="img" src="https://th.bing.com/th/id/R.a29f86ecac15aa887d929d4a13f665cb?rik=G92i9mCyOOA57Q&riu=http%3a%2f%2fmaldivesmission.com%2fmedia%2fimages%2f177Women.jpg&ehk=K5iYP%2fRfKoVhIRZ59FxdR943p8DQZ9sR2wwog7ievrk%3d&risl=&pid=ImgRaw&r=0" height="200px" width="300px">
+<p id="info">
+    <b>Dress :</b>
+    <br>With a predominately Muslim faith, Maldivians are quite conservative and wear traditional dress. Males wear a sarong and white cotton shirt, while females wear a traditional libaa which is a long dress with gold and silver thread. Guests must also be fully clothed while swimming at the beaches on the mainland unless swimming at a designated bikini beach. However, this rule does not apply at the resort islands and guests are free to soak up the sunshine in whatever swimming attire they please.
+</p>
+<img id="img" src="https://th.bing.com/th/id/R.642b1b5e9b1738ddc55523790733b6a4?rik=gOD9Em%2fta5JbjA&riu=http%3a%2f%2f3.bp.blogspot.com%2f-OMh8RWQOils%2fTVwTN9e1N2I%2fAAAAAAAAAD4%2fDhIr1PwKsb4%2fs1600%2fDSC_2500.JPG&ehk=9FL3mUwQ6B4w9IMItoetHuTnxD7pzJcFU%2bgonAfbEw4%3d&risl=&pid=ImgRaw&r=0" height="200px" width="300px">
+<p id="info">
+<b>Music & Dance :</b>
+    <br>Music and dance are an integral part of Maldives culture and are heavily influenced by their surrounding nations. One of the most well-known Maldives performances is the “Bodu Beru”. The dance is performed by large groups of 15 to 20 men and features a range of drummers, dancers and singers. Many of the resorts organise regular cultural performances to entertain their guests, so be sure to check one out on your next Maldives holiday.
+</p>
+<img id="img" src="https://www.holidify.com/images/cmsuploads/compressed/11666472b35b1ccb505c8c235bc5fc2a_20181015215510.jpg" height="200px" width="300px">
+<div id="abt"> 
+    <p>MALDIVES FOOD :</p>
+</div>
+<p>
+    After tourism, the fishing industry drives the economy in the Maldives. You can expect to eat a lot of fresh tuna, snapper and lobster as well as a whole host of international cuisines on offer at your resort. Many resorts also offer all-inclusive holiday packages, so you can leave your wallet at home and indulge in a wide range of cuisines for breakfast, lunch and dinner. Traditional Maldivian food is hot and spicy and features a lot of curries, soups and dishes served with rice. Coconuts, yams, mangoes and pineapples are also locally grown and super delicious.
+</p>
+<img id="img" src="https://www.swantour.com/blogs/wp-content/uploads/2018/12/Delicious-Maldives-Seafood.jpg" height="200px" width="300px">
+
+<div id="cnt">
+    Contact us !
+    <br>
+    <b>maldives.toursim@gmail.com</b>
+</div>
+</body>
+</html>
